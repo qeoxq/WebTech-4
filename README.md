@@ -1,1 +1,2 @@
-# WT4
+# WebTech
+- Laboratory work №4. *Servlets and JSPs.*
